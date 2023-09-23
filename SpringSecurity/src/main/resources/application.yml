@@ -1,0 +1,18 @@
+#Owned by: @Sirojiddinov07
+#
+#App ID: 394366
+#
+#Client ID: Iv1.73874a7cb43d68cb
+#609dfb6ded53d235c57458306433c0634c7f220e
+
+server:
+  port:
+    8090
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Iv1.73874a7cb43d68cb
+            clientSecret: 609dfb6ded53d235c57458306433c0634c7f220e
